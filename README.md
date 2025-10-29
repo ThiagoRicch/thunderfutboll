@@ -24,14 +24,14 @@ Projeto desenvolvido com foco em aprendizado e prática de React.
 O objetivo foi entender como componentes interagem e como manipular dados vindos de formulários.
 
 🚀 Como rodar o projeto:
-# Clone o repositório
-git clone https://github.com/seu-usuario/thunderfutboll.git
+### Clone o repositório
+git clone https://github.com/ThiagoRicch/thunderfutboll.git
 
-# Acesse a pasta do projeto
+### Acesse a pasta do projeto
 cd thunderfutboll
 
-# Instale as dependências
+### Instale as dependências
 npm install
 
-# Inicie o servidor de desenvolvimento
+### Inicie o servidor de desenvolvimento
 npm start
