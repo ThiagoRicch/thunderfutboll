@@ -1,0 +1,20 @@
+.labelTimes
+{
+    text-align: center;
+    color: black;
+    padding: 32px;
+}
+
+.labelTimes h3 {
+    font-size: 28px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.labelTimes .userCards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}

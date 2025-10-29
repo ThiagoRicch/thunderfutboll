@@ -1,0 +1,17 @@
+.labelStyle
+{
+    display: block;
+    font-weight: bold;
+}
+
+.inputStyle
+{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+}
