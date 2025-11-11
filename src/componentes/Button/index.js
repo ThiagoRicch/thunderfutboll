@@ -1,6 +1,6 @@
 import './Button.css'
 
-const Button = (props) => {
+const Button = () => {
   return (
     <div className='buttonContainer'>
         <button className = "buttonStyle">
